@@ -1,0 +1,20 @@
+{
+  "jira": {
+    "msinfra_ticket_no": "",
+    "url": "https://cast-delivery.atlassian.net/"
+  },
+  "html_file_path": "https://gaicreport.corp.castsoftware.com/",
+  "warnDays": 15,
+  "css": {
+    "database": "postgres",
+    "user": "operator",
+    "password": "",
+    "host": "localhost",
+    "port": 2284
+  },
+  "console": {
+    "restURL": "http://localhost:8081/",
+    "user": "admin",
+    "password": ""
+  }
+}
